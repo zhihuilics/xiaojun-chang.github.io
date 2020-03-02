@@ -1,27 +1,31 @@
 ---
-title: Vikram Voleti
+title: Xiaojun Chang
 layout: default
-excerpt: Home page of Vikram Voleti's website
+excerpt: Home page of Xiaojun Chang's website
 permalink: /
 ---
 
-| <a href="mailto:vikram.voleti@gmail.com" target="_blank" style="text-align:center; display:block"><i class="fa fa-envelope ai-3x"></i></a> | <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="ai ai-google-scholar-square ai-3x"></i></a> | <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-linkedin ai-3x"></i></a> | <a href="https://github.com/{{ site.github_username }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-github ai-3x"></i></a> |
+| <a href="mailto:cxj273@gmail.com" target="_blank" style="text-align:center; display:block"><i class="fa fa-envelope ai-3x"></i></a> | <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="ai ai-google-scholar-square ai-3x"></i></a> | <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-linkedin ai-3x"></i></a> | <a href="https://github.com/{{ site.github_username }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-github ai-3x"></i></a> |
 
 <br/>
 
 <img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/profile_picture.jpg" />
 
-I am a PhD student at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"} with [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"} as my supervisor. Currently, I am a Visiting Research Associate at the [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"} with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}.
+Greetings! I am a faculty member at Faculty of Information Technology, Monash University Clayton Campus, Australia. I am also affiliated with Monash University Centre for Data Science. I am ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018). I am actively looking for talented and motivated PhD students to work with me. Please drop me an email if you are interested.
 
-I was a Research Intern at [Google](https://ai.google/research/teams/perception/){:target="_blank"}, Mountain View in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team in the fall of 2019. I had the good fortune of working with Bryan Seybold & Sourish Chaudhuri on Semi-supervised Active Speaker Detection in videos.
+Before joining Monash, I was a Postdoc Research Associate in School of Computer Science, Carnegie Mellon University, working with [Prof. Alex Hauptmann](http://www.cs.cmu.edu/~alex/){:target="_blank"}. I have spent most of my time working on exploring multiple signals (visual, acoustic, textual) for automatic content analysis in unconstrained or surveillence videos. Our system has achieved top performance in various international competitions, such as TRECVID MED, TRECVID SIN, and TRECVID AVS.
 
-In 2019, I was also an AI Scientist in Residence for NextAI, Montreal, and a teaching assistant for the IVADO/Mila Deep Learning School.
+I received my Ph.D. degree in Centre for Artificial Intelligence & Faculty of Engineering and Information Technology, University of Technology Sydney, under the supervision of [Prof. Yi Yang](http://www.cs.cmu.edu/~yiyang/){:target="_blank"}. During my PhD study, I was sequentially mentored by Prof. [Feiping Nie](http://www.escience.cn/people/fpnie/){:target="_blank"} and [Yaoliang Yu](https://cs.uwaterloo.ca/~y328yu/){:target="_blank"}. My research focus in this period was mainly on developing machine learning algorithms and apply them to multimedia analysis and computer vision.
 
-Previously, I worked as a Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at [CVIT, IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} on automated lip synthesis for translation of a video into a different languages. I was also a Mentor for the first [Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl){:target="_blank"} certificate program for industry professionals by IIIT-H Machine Learning Lab. I also worked on semantic segmentation for autonomous driving with [Playment](https://playment.io){:target="_blank"}.
+## Research Interests
 
-Prior to that, I worked at [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"} on real time embedded vision in videos for warehouse automation, and autonomous robots; and at [Airbus, India](http://www.airbus.com/){:target="_blank"} on software development and integration.
+My general research interest is to develop structured machine learning models for computer vision and multimedia tasks. I mainly investigate how to explore the information contained in videos and develop the advanced artificial intelligence systems. Recently, I focus on the following topics, include:
 
-I graduated from the [Indian Institute of Technology (IIT), Kharagpur, India](http://www.iitkgp.ac.in/){:target="_blank"}, in 2014 with a Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering, my Master's specialization was Instrumentation and Signal Processing.
+- Video Analysis, including event detection, object detection, segmentation.
+
+- Learning with Limited Supervision, including few-shot learning, zero-shot learning.
+
+- Medical image understanding.
 
 ## News
 
