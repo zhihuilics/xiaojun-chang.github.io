@@ -1,9 +1,9 @@
-title: VIKRAM VOLETI
-author: Vikram Voleti
-url: "https://voletiv.github.io"
+title: Xiaojun Chang
+author: Xiaojun Chang
+url: "https://xiaojun-chang.github.io"
 baseurl: ""
 
-description: Vikram Voleti's website
+description: Xiaojun Chang's website
 
 markdown: kramdown
 
@@ -15,11 +15,11 @@ sass:
 
 include: ["_pages"]
 
-google_scholar_url:   https://scholar.google.com/citations?hl=en&user=PPCRqZUAAAAJ&view_op=list_works&sortby=pubdate
-github_username:      voletiv
-linkedin_username:    vikram-voleti-45372222
-quora_username:       Vikram-Voleti
-wordpress_username:   vikramvoleti
-facebook_username:    vikky2904
-twitter_username:     vikky2904
-google_plus_username: vikky2904
+google_scholar_url:   https://scholar.google.com/citations?hl=en&user=8suupocAAAAJ
+github_username:      cxj273
+linkedin_username:    cxj273
+quora_username:       cxj273
+wordpress_username:   cxj273
+facebook_username:    cxj273
+twitter_username:     cxj273
+google_plus_username: cxj273
