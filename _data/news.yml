@@ -1,34 +1,5 @@
-- date: January 7th, 2020
-  news: Gave a talk on "Simple Video Generation using Neural ODEs" at <a href="http://cvit.iiit.ac.in/" target="_blank">IIIT Hyderabad</a>, India
-  pdf: 20200107_IIITH_Simple_Video_Generation_using_Neural_ODEs.pdf
-  category: presentations
-
-- date: December 15, 2019
-  news: Joined <a href="https://www.gwtaylor.ca/" target="_blank">Prof. Graham Taylor</a>'s lab as a Visiting Researcher at the <a href="https://www.uoguelph.ca/engineering/" target="_blank">University of Guelph</a>, Canada.
-
-- date: December 9-14, 2019
-  news: Attended <a href="https://neurips.cc/Conferences/2019" target="_blank">NeurIPS 2019</a>, Vancouver, Canada; presented "Simple Video Generation using Neural ODEs" in the Workshop on <a href="https://sites.google.com/view/neurips2019lire/home?authuser=0" target="_blank">Learning with Rich Experience</a>!   [<a href="https://voletiv.github.io/docs/publications/2019e_NeurIPSW_EncODEDec.pdf" target="_blank">paper</a>, <a href="https://voletiv.github.io/docs/presentations/20191213_Vancouver_NeurIPSW_EncODEDec.pdf" target="_blank">poster</a>]
-
-- date: December 9, 2019
-  news: Attended <a href="https://events.cifar.ca/aican19" target="_blank">AICan 2019</a>, the second annual meeting of the Pan-Canadian AI Strategy; presented "Simple Video Generation using Neural ODEs" [<a href="https://voletiv.github.io/docs/publications/2019e_NeurIPSW_EncODEDec.pdf" target="_blank">paper</a>]
-
-- date: September 16, 2019 - December 6, 2019
-  news: Research Intern at Google, Mountain View in the <a href="https://ai.google/research/teams/perception/" target="_blank">Google AI Perception</a> team, with Bryan Seybold and Sourish Chaudhuri. Worked on Semi-supervised Active Speaker Detection in videos.
-
-- date: September 9-13, 2019
-  news: Teaching Assistant at the <a href="https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/" target="_blank">4th IVADO / Mila Deep Learning School</a>, Montreal, Canada
-
-- date: September, 2019
-  news: Teaching Assistant for the <a href="http://mitliagkas.github.io/ift6390-ml-class-2019/" target="_blank">Fundamentals of Machine Learning (IFT 6390)</a> course by <a href="http://mitliagkas.github.io/" target="_blank">Ioannis Mitliagkas</a> at the University of Montreal, Montreal, Canada
-
-- date: July 7-10, 2019
-  news: Attended <a href="http://rldm.org/" target="_blank">RLDM 2019</a>, Montreal, Canada
-
-- date: June 16-20, 2019
-  news: Attended <a href="http://cvpr2019.thecvf.com/" target="_blank">CVPR 2019</a>, Long Beach, California
-
-- date: June 9-15, 2019
-  news: Attended <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a>, Long Beach, California; presented "Comparing normalization in conditional computation tasks" in the Workshop on <a href="https://sites.google.com/view/icml2019-generalization" target="_blank">Understanding and Improving Generalization in Deep Learning</a>!   [<a href="https://voletiv.github.io/docs/publications/2019a_ICMLW_CGN.pdf" target="_blank">paper</a>, <a href="https://voletiv.github.io/docs/presentations/20190614_LongBeach_ICML_Workshop_CGN.pdf" target="_blank">poster</a>]
+- date: Febuary 23rd, 2020
+  news: Paper accepted by <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a> on vision-lanuage navigation! Paper title - Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks [<a href="https://arxiv.org/pdf/1911.07883.pdf" target="_blank">pdf</a>]
 
 - date: May 31, 2019
   news: Paper accepted at <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a> Workshop on <a href="https://sites.google.com/view/icml2019-generalization" target="_blank">Understanding and Improving Generalization in Deep Learning</a>! Paper title - "Comparing normalization in conditional computation tasks"  [<a href="https://voletiv.github.io/docs/publications/2019a_ICMLW_CGN.pdf" target="_blank">pdf</a>]
