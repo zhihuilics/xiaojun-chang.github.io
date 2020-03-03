@@ -53,7 +53,7 @@
 - title: Vision Dialogue Navigation by Exploring Cross-modal Memory
   image: CVPR2020_VDN_framework.png
   description: <ul><li>learning an agent endowed with the capability of constant conversation for help with natural language and navigating according to human responses</li>
-                   <li>propose a Cross-modal Memory Network (CMN) for remembering and understanding the rich information relevant to historical navigation actions</ul>
+                   <li>propose a Cross-modal Memory Network (CMN) for remembering and understanding the rich information relevant to historical navigation actions</li></ul>
   authors: Yi Zhu, Fengda Zhu, Zhao huan Zhan, Bingqian Lin, Jianbin Jiao, <b>Xiaojun Chang</b>, Xiaodan Liang
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
