@@ -1,0 +1,26 @@
+- title: Zero-Shot Temporal Activity Detection
+  image: CVPR2020_ZSTAD_framework.png
+  description: <ul><li>Proposing a novel problem setting for temporal activity detection in which activities that are not seen during the training stage can be recognized and localized simultaneously</li></ul>
+  authors: Lingling Zhang, <b>Xiaojun Chang</b>, Jun Liu, Sen Wang, Zongyuan Ge, Minnan Luo, Alexander Hauptmann
+  venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
+  number_link: 2
+  link1:
+    url: #
+    display: paper
+  link2:
+    url: #
+    display: poster
+
+
+
+# - title: Conditional Group Normalization: An Empirical Study
+#   image: 2019a_ICMLW_CGN.png
+#   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
+#   authors: Vincent Michalski, Vikram Voleti, Samira Kahou, Anthony Ortiz, Pascal Vincent, Chris Pal, Doina Precup
+#   venue: <a href="https://neurips.cc/Conferences/2018">NeurIPS 2019</a>
+#   number_link: 1
+#   link1:
+#     url: 2019b_NeurIPS_CGN.pdf
+#     display: paper
+
+
