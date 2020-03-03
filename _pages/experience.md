@@ -13,18 +13,7 @@ permalink: /experience
 _December 2018 --- present_
 
 ### Lecturer and DECRA Fellow, [Faculty of Information Technology](https://www.monash.edu/it){:target="_blank"}, [Monash University](https://www.monash.edu/){:target="_blank"}
-
-</div>
-
-
-<div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/cmu.jpg">](http://www.cmu.edu/){:target="_blank"}
-
-_August 2016 --- November 2018
-
-### Postdoc Research Associate with [Prof. Alex Hauptmann](http://www.cs.cmu.edu/~alex/){:target="_blank"}, [Carnegie Mellon University](http://www.cmu.edu/){:target="_blank"}
-**Pittsburgh, PA, US**
-
+**Melbourne, VIC, Australia**
 </div>
 
 # EDUCATION
@@ -32,7 +21,7 @@ _August 2016 --- November 2018
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/uts.jpg">](https://www.uts.edu.au/){:target="_blank"}
 
-_2012 --- 2016_
+_October 2012 --- August 2016_
 
 ### [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"}, Australia
 
@@ -45,7 +34,7 @@ _2012 --- 2016_
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/cmu.jpg">](http://www.cmu.edu/){:target="_blank"}
 
-_August 2016 --- November 2018
+_August 2016 --- November 2018_
 
 ### Postdoc Research Associate with [Prof. Alex Hauptmann](http://www.cs.cmu.edu/~alex/){:target="_blank"}, [Carnegie Mellon University](http://www.cmu.edu/){:target="_blank"}
 **Pittsburgh, PA, US**
@@ -55,7 +44,7 @@ _August 2016 --- November 2018
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/cmu.jpg">](http://www.cmu.edu/){:target="_blank"}
 
-_March 2014 --- August 2016
+_March 2014 --- August 2016_
 
 ### Visiting Student with [Prof. Alex Hauptmann](http://www.cs.cmu.edu/~alex/){:target="_blank"}, [Carnegie Mellon University](http://www.cmu.edu/){:target="_blank"}
 **Pittsburgh, PA, US**
