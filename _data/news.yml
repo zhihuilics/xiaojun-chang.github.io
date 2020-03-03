@@ -10,6 +10,9 @@
 - date: Febuary 23rd, 2020
   news: Paper accepted by <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a> on nueral architecture search! Paper title - Neural Architecture Search by Block-wisely Distilling Architecture Knowledge
 
+- date: November 15th, 2019
+  news: We achieved first place in the TRECVID 2019 ActEV <a href="https://actev.nist.gov/trecvid19" target="_blank">Challenge</a>!
+
 - date: August 29th, 2019
   news: Demo presentation accepted by <a href="http://iccv2019.thecvf.com/" target="_blank">ICCV 2019</a>! Title - Traffic Danger Recognition With Surveillance Cameras Without Training Data 
 
