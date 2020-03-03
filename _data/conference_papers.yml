@@ -11,7 +11,7 @@
     url: #
     display: poster
 
-- title: Zero-Shot Temporal Activity Detection
+- title: ZSTAD - Zero-Shot Temporal Activity Detection
   image: CVPR2020_ZSTAD_framework.png
   description: <ul><li>Proposing a novel problem setting for temporal activity detection in which activities that are not seen during the training stage can be recognized and localized simultaneously</li></ul>
   authors: Lingling Zhang, <b>Xiaojun Chang</b>, Jun Liu, Sen Wang, Zongyuan Ge, Minnan Luo, Alexander Hauptmann
