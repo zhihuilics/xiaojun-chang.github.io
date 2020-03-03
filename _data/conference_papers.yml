@@ -77,6 +77,32 @@
     url: #
     display: poster
 
+- title: Multi-Head Attention with Diversity for Learning Grounded Multilingual Multimodal Representations
+  image: EMNLP2019_MHA_framework.png
+  description: <ul><li>leveraging visual object detection and propose a model with diverse multi-head attention to learn grounded multilingual multimodal representations</li></ul>
+  authors: Po-Yao Huang, <b>Xiaojun Chang</b>, Alexander G. Hauptmann
+  venue: <a href="https://www.emnlp-ijcnlp2019.org/" target="_blank">EMNLP 2019</a>
+  number_link: 2
+  link1:
+    url: https://www.aclweb.org/anthology/D19-1154.pdf
+    display: paper
+  link2:
+    url: #
+    display: poster
+
+- title: Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment
+  image: ACMMM2019_AECMR_framework.png
+  description: <ul><li>propose a novel framework to leverage automatically extracted regional semantics from un-annotated images as additional weak supervision to learn visual-semantic embeddings</li></ul>
+  authors: Po-Yao Huang, Guoliang Kang, Wenhe Liu, <b>Xiaojun Chang</b>, Alexander G. Hauptmann
+  venue: <a href="https://2019.acmmm.org/" target="_blank">ACM MM 2019</a>
+  number_link: 2
+  link1:
+    url: https://dl.acm.org/doi/10.1145/3343031.3350894
+    display: paper
+  link2:
+    url: #
+    display: poster
+
 # - title: Conditional Group Normalization: An Empirical Study
 #   image: 2019a_ICMLW_CGN.png
 #   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
