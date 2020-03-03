@@ -127,6 +127,36 @@
     url: http://openaccess.thecvf.com/content_ICCV_2017/papers/Fan_Complex_Event_Detection_ICCV_2017_paper.pdf
     display: paper
 
+- title: They are Not Equally Reliable - Semantic Event Search Using Differentiated Concept Classifiers
+  image: CVPR2016_NotER_framework.png
+  description: <ul><li>combine the concept classifiers based on a principled estimate of their accuracy on the unlabeled test videos</li></ul>
+  authors: <b>Xiaojun Chang</b>, Yao-Liang Yu, Yi Yang, Eric P. Xing
+  venue: <a href="http://cvpr2016.thecvf.com/" target="_blank">CVPR 2016</a>
+  number_link: 1
+  link1:
+    url: https://cs.uwaterloo.ca/~y328yu/mypapers/cvpr16a.pdf
+    display: paper
+
+- title: Complex Event Detection using Semantic Saliency and Nearly-Isotonic SVM
+  image: ICML2015_NISVM_framework.png
+  description: <ul><li>define a novel notion of semantic saliency that assesses the relevance of each shot with the event of interest</li></ul>
+  authors: <b>Xiaojun Chang</b>, Yi Yang, Eric P. Xing, Yao-Liang Yu
+  venue: <a href="https://icml.cc/2015/" target="_blank">ICML 2015</a>
+  number_link: 1
+  link1:
+    url: http://proceedings.mlr.press/v37/changa15.pdf
+    display: paper
+
+- title: Searching Persuasively - Joint Event Detection and Evidence Recounting with Limited Supervision
+  image: ACMMM2015_SP_framework.png
+  description: <ul><li>propose a joint framework that simultaneously detects high-level events and localizes the indicative concepts of the events</li></ul>
+  authors: <b>Xiaojun Chang</b>, Yao-Liang Yu, Yi Yang, Alexander G. Hauptmann
+  venue: <a href="" target="_blank">ACM MM 2015</a>
+  number_link: 1
+  link1:
+    url: http://cxj273.github.io/papers/ACMMM15.pdf
+    display: paper
+
 # - title: Conditional Group Normalization: An Empirical Study
 #   image: 2019a_ICMLW_CGN.png
 #   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
