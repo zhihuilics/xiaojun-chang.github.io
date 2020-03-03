@@ -40,7 +40,7 @@
 - title: Neural Architecture Search by Block-wisely Distilling Architecture Knowledge
   image: CVPR2020_NAS_framework.png
   description: <ul><li>modularize the large search space of NAS into blocks to ensure that the potential candidate architectures are fully trained</li></ul>
-  authors: Changlin Li, Jiefeng Peng, Liuchun Yuan, Guangrun Wang, Xiaodan Liang, Liang Lin, Xiaojun Chang
+  authors: Changlin Li, Jiefeng Peng, Liuchun Yuan, Guangrun Wang, Xiaodan Liang, Liang Lin, <b>Xiaojun Chang</b>
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
   link1:
