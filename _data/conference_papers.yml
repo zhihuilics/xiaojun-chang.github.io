@@ -82,26 +82,50 @@
   description: <ul><li>leveraging visual object detection and propose a model with diverse multi-head attention to learn grounded multilingual multimodal representations</li></ul>
   authors: Po-Yao Huang, <b>Xiaojun Chang</b>, Alexander G. Hauptmann
   venue: <a href="https://www.emnlp-ijcnlp2019.org/" target="_blank">EMNLP 2019</a>
-  number_link: 2
+  number_link: 1
   link1:
     url: https://www.aclweb.org/anthology/D19-1154.pdf
     display: paper
-  link2:
-    url: #
-    display: poster
 
 - title: Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment
   image: ACMMM2019_AECMR_framework.png
   description: <ul><li>propose a novel framework to leverage automatically extracted regional semantics from un-annotated images as additional weak supervision to learn visual-semantic embeddings</li></ul>
   authors: Po-Yao Huang, Guoliang Kang, Wenhe Liu, <b>Xiaojun Chang</b>, Alexander G. Hauptmann
   venue: <a href="https://2019.acmmm.org/" target="_blank">ACM MM 2019</a>
-  number_link: 2
+  number_link: 1
   link1:
     url: https://dl.acm.org/doi/10.1145/3343031.3350894
     display: paper
-  link2:
-    url: #
-    display: poster
+
+- title: RCAA Relational Context-Aware Agents for Person Search
+  image: ECCV2018_RCAA_framework.png
+  description: <ul><li>made the earliest attempt to address the person search problem and built the first deep reinforcement learning based person search framework</li></ul>
+  authors: <b>Xiaojun Chang</b>, Po-Yao Huang, Yi-Dong Shen, Xiaodan Liang, Yi Yang and Alexander G. Hauptmann
+  venue: <a href="https://eccv2018.org/" target="_blank">ECCV 2018</a>
+  number_link: 1
+  link1:
+    url: http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaojun_Chang_RCAA_Relational_Context-Aware_ECCV_2018_paper.pdf
+    display: paper
+
+- title: Reinforcement Cutting-Agent Learning for Video Object Segmentation
+  image: CVPR2018_RCA_framework.png
+  description: <ul><li>make a pioneer effort to formulate the video object segmentation problem as a Markov Decision Process and propose a novel reinforcement cutting-agent learning framework to tackle this problem</li></ul>
+  authors: Junwei Han, Le Yang, Dingwen Zhang, <b>Xiaojun Chang</b>, Xiaodan Liang
+  venue: <a href="http://cvpr2018.thecvf.com/" target="_blank">CVPR 2018</a>
+  number_link: 1
+  link1:
+    url: http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf
+    display: paper
+
+- title: Complex Event Detection by Identifying Reliable Shots from Untrimmed Videos
+  image: ICCV2017_CED_framework.png
+  description: <ul><li>simultaneously learns a linear SVM classifier and infers a binary indicator for each instance in order to select reliable training instances from each positive or negative bag</li></ul>
+  authors: Hehe Fan, <b>Xiaojun Chang</b>, De Cheng, Yi Yang, Dong Xu, Alexander G. Hauptmann
+  venue: <a href="http://iccv2017.thecvf.com/" target="_blank">ICCV 2017</a>
+  number_link: 1
+  link1:
+    url: http://openaccess.thecvf.com/content_ICCV_2017/papers/Fan_Complex_Event_Detection_ICCV_2017_paper.pdf
+    display: paper
 
 # - title: Conditional Group Normalization: An Empirical Study
 #   image: 2019a_ICMLW_CGN.png
