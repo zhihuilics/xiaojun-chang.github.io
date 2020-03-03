@@ -15,7 +15,7 @@
   image: CVPR2020_ZSTAD_framework.png
   description: <ul><li>Proposing a novel problem setting for temporal activity detection in which activities that are not seen during the training stage can be recognized and localized simultaneously</li></ul>
   authors: Lingling Zhang, <b>Xiaojun Chang</b>, Jun Liu, Sen Wang, Zongyuan Ge, Minnan Luo, Alexander Hauptmann
-  venues: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
+  venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
   link1:
     url: #
@@ -28,7 +28,7 @@
   image: CVPR2020_UST_framework.png
   description: <ul><li>smooth the style disparities within the same camera and across different cameras</li></ul>
   authors: Chong Liu, <b>Xiaojun Chang</b>, Yi-Dong Shen
-  venues: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
+  venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
   link1:
     url: #
@@ -41,7 +41,7 @@
   image: CVPR2020_NAS_framework.png
   description: <ul><li>modularize the large search space of NAS into blocks to ensure that the potential candidate architectures are fully trained</li></ul>
   authors: Changlin Li, Jiefeng Peng, Liuchun Yuan, Guangrun Wang, Xiaodan Liang, Liang Lin, Xiaojun Chang
-  venues: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
+  venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
   link1:
     url: https://arxiv.org/pdf/1911.13053.pdf
@@ -54,7 +54,7 @@
   image: CVPR2020_VDN_framework.png
   description: <ul><li>learning an agent endowed with the capability of constant conversation for help with natural language and navigating according to human responses</li></ul>
   authors: Yi Zhu, Fengda Zhu, Zhao huan Zhan, Bingqian Lin, Jianbin Jiao, <b>Xiaojun Chang</b>, Xiaodan Liang
-  venues: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
+  venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
   link1:
     url: #
