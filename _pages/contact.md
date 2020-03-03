@@ -1,7 +1,7 @@
 ---
-title: Vikram Voleti's contact details
+title: Xiaojun Chang's contact details
 layout: default
-excerpt: Vikram Voleti's contact details
+excerpt: Xiaojun Chang's contact details
 type: contact
 permalink: /contact
 ---
@@ -10,7 +10,7 @@ permalink: /contact
 
 ## Contact
 
-[<i class="fa fa-envelope"></i> vikram.voleti@gmail.com](mailto:vikram.voleti@gmail.com)
+[<i class="fa fa-envelope"></i> cxj273@gmail.com](mailto:vikram.voleti@gmail.com)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Vikram Voleti's publications
+title: Xiaojun Chang's publications
 layout: default
-excerpt: Vikram Voleti's publications
+excerpt: Xiaojun Chang's publications
 permalink: /publications
 ---
 

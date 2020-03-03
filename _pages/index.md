@@ -27,8 +27,6 @@ My general research interest is to develop structured machine learning models fo
 
 - Visual Navigation, including vision-language navigation, and vision-and-dialog navigation.
 
-- Medical image understanding.
-
 ## News
 
 <table>
