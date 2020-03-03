@@ -15,7 +15,6 @@ permalink: /publications
 
 <p>&nbsp;</p>
 
-{% comment %}
 # JOURNAL PAPERS
 
 {% for publication in site.data.journal_papers %}
@@ -27,7 +26,6 @@ permalink: /publications
 <p>&nbsp;</p>
 
 {% assign numOfJournals = loopindex %}
-{% endcomment %}
 
 # THESIS / REPORTS
 
