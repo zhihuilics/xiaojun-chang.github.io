@@ -8,7 +8,13 @@
   news: Paper accepted by <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a> on zero-shot temporal activity detection! Paper title - ZSTAD Zero-Shot Temporal Activity Detection
 
 - date: Febuary 23rd, 2020
+  news: Paper accepted by <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a> on person re-identification! Paper title - Unity Style Transfer for Person Re-Identification
+
+- date: Febuary 23rd, 2020
   news: Paper accepted by <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a> on nueral architecture search! Paper title - Neural Architecture Search by Block-wisely Distilling Architecture Knowledge [<a href="https://arxiv.org/pdf/1911.13053.pdf" target="_blank">pdf</a>]
+
+- date: January 11th, 2020
+  news: Paper accepted by <a href="https://www2020.thewebconf.org/" target="_blank">WWW 2020</a> on graph convolutional networks! Paper title - Unsupervised Domain Adaptive Graph Convolutional Networks
 
 - date: November 15th, 2019
   news: We achieved first place in the TRECVID 2019 ActEV <a href="https://actev.nist.gov/trecvid19" target="_blank">Challenge</a>! [<a href="http://www.cs.cmu.edu/~uqxchan1/demos/diva/bernie_i3d_flow_s8.512.256.1.gt-heu_gt_obj_props-hty_v1_props.gru/VIRAT_S_040002_00_000000_000377.mp4" target="_blank">DEMO</a>]
