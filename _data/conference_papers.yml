@@ -3,52 +3,40 @@
   description: <ul><li>Introducing Auxiliary Reasoning Navigation (AuxRN), a framework with four self-supervised auxiliary reasoning tasks to take advantage of the additional training signals derived from the semantic information</li></ul>
   authors: Fengda Zhu, Yi Zhu, <b>Xiaojun Chang</b>, Xiaodan Liang
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 2
+  number_link: 1
   link1:
     url: https://arxiv.org/pdf/1911.07883.pdf
     display: paper
-  link2:
-    url: #
-    display: poster
 
 - title: ZSTAD - Zero-Shot Temporal Activity Detection
   image: CVPR2020_ZSTAD_framework.png
   description: <ul><li>Proposing a novel problem setting for temporal activity detection in which activities that are not seen during the training stage can be recognized and localized simultaneously</li></ul>
   authors: Lingling Zhang, <b>Xiaojun Chang</b>, Jun Liu, Sen Wang, Zongyuan Ge, Minnan Luo, Alexander Hauptmann
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 2
+  number_link: 1
   link1:
     url: #
     display: paper
-  link2:
-    url: #
-    display: poster
 
 - title: Unity Style Transfer for Person Re-Identification
   image: CVPR2020_UST_framework.png
   description: <ul><li>smooth the style disparities within the same camera and across different cameras</li></ul>
   authors: Chong Liu, <b>Xiaojun Chang</b>, Yi-Dong Shen
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 2
+  number_link: 1
   link1:
-    url: #
+    url: https://arxiv.org/pdf/2003.02068
     display: paper
-  link2:
-    url: #
-    display: poster
 
 - title: Neural Architecture Search by Block-wisely Distilling Architecture Knowledge
   image: CVPR2020_NAS_framework.png
   description: <ul><li>modularize the large search space of NAS into blocks to ensure that the potential candidate architectures are fully trained</li></ul>
   authors: Changlin Li, Jiefeng Peng, Liuchun Yuan, Guangrun Wang, Xiaodan Liang, Liang Lin, <b>Xiaojun Chang</b>
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 2
+  number_link: 1
   link1:
     url: https://arxiv.org/pdf/1911.13053.pdf
     display: paper
-  link2:
-    url: #
-    display: poster
 
 - title: Vision Dialogue Navigation by Exploring Cross-modal Memory
   image: CVPR2020_VDN_framework.png
@@ -56,26 +44,20 @@
                    <li>propose a Cross-modal Memory Network (CMN) for remembering and understanding the rich information relevant to historical navigation actions</li></ul>
   authors: Yi Zhu, Fengda Zhu, Zhao huan Zhan, Bingqian Lin, Jianbin Jiao, <b>Xiaojun Chang</b>, Xiaodan Liang
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 2
+  number_link: 1
   link1:
     url: #
     display: paper
-  link2:
-    url: #
-    display: poster
 
 - title: Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization
   image: CVPR2020_OSNAS_framework.png
   description: <ul><li>formulate the supernet training in the One-Shot NAS as a constrained optimization problem of continual learning that the learning of current architecture should not degrade the performance of previous architectures during the supernet training</li></ul>
   authors: Miao Zhang, Huiqi Li, Shirui Pan, <b>Xiaojun Chang</b>, Steven Su
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 2
+  number_link: 1
   link1:
     url: #
     display: paper
-  link2:
-    url: #
-    display: poster
 
 - title: Multi-Head Attention with Diversity for Learning Grounded Multilingual Multimodal Representations
   image: EMNLP2019_MHA_framework.png
