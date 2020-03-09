@@ -11,7 +11,7 @@ permalink: /
 
 <img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/profile_picture.jpg" />
 
-Greetings! I am a faculty member at Department of Data Science and AI, Faculty of Information Technology, Monash University Clayton Campus, Australia. I am ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018). <b>I am actively looking for talented and motivated PhD students to work with me. Please drop me an email if you are interested.</b>
+Greetings! I am a faculty member at Vision & Lanugage Group, Department of Data Science and AI, Faculty of Information Technology, Monash University Clayton Campus, Australia. I am ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018). <b>I am actively looking for talented and motivated PhD students to work with me. Please drop me an email if you are interested.</b>
 
 Before joining Monash, I was a Postdoc Research Associate in School of Computer Science, Carnegie Mellon University, working with [Prof. Alex Hauptmann](http://www.cs.cmu.edu/~alex/){:target="_blank"}. I have spent most of my time working on exploring multiple signals (visual, acoustic, textual) for automatic content analysis in unconstrained or surveillence videos. Our system has achieved top performance in various international competitions, such as TRECVID MED, TRECVID SIN, and TRECVID AVS.
 
