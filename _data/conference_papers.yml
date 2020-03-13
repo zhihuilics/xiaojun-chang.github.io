@@ -21,7 +21,7 @@
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 1
   link1:
-    url: #
+    url: https://arxiv.org/pdf/2003.05583.pdf
     display: paper
 
 - title: Unity Style Transfer for Person Re-Identification
