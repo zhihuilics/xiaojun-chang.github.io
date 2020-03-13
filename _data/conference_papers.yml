@@ -3,10 +3,16 @@
   description: <ul><li>Introducing Auxiliary Reasoning Navigation (AuxRN), a framework with four self-supervised auxiliary reasoning tasks to take advantage of the additional training signals derived from the semantic information</li></ul>
   authors: Fengda Zhu, Yi Zhu, <b>Xiaojun Chang</b>, Xiaodan Liang
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 1
+  number_link: 3
   link1:
     url: https://arxiv.org/pdf/1911.07883.pdf
     display: paper
+  link2:
+    url: https://drive.google.com/file/d/1ONqk4PlLmLEGhUftqvBs2aCuL02JBZeV/view?usp=sharing
+    display: DEMO
+  link3:
+    url: https://arxiv.org/pdf/1911.07883.pdf
+    display: [Oral]
 
 - title: ZSTAD - Zero-Shot Temporal Activity Detection
   image: CVPR2020_ZSTAD_framework.png
