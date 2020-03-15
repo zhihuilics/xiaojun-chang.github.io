@@ -60,10 +60,13 @@
   description: <ul><li>formulate the supernet training in the One-Shot NAS as a constrained optimization problem of continual learning that the learning of current architecture should not degrade the performance of previous architectures during the supernet training</li></ul>
   authors: Miao Zhang, Huiqi Li, Shirui Pan, <b>Xiaojun Chang</b>, Steven Su
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 1
+  number_link: 2
   link1:
     url: #
     display: paper
+  link2: 
+    url: https://github.com/MiaoZhang0525/NSAS_FOR_CVPR
+    display: code
 
 - title: Multi-Head Attention with Diversity for Learning Grounded Multilingual Multimodal Representations
   image: EMNLP2019_MHA_framework.png
