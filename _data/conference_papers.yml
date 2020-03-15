@@ -39,10 +39,13 @@
   description: <ul><li>modularize the large search space of NAS into blocks to ensure that the potential candidate architectures are fully trained</li></ul>
   authors: Changlin Li, Jiefeng Peng, Liuchun Yuan, Guangrun Wang, Xiaodan Liang, Liang Lin, <b>Xiaojun Chang</b>
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 1
+  number_link: 2
   link1:
     url: https://arxiv.org/pdf/1911.13053.pdf
     display: paper
+  link2:
+    url: https://github.com/changlin31/DNA
+    display: code
 
 - title: Vision Dialogue Navigation by Exploring Cross-modal Memory
   image: CVPR2020_VDN_framework.png
