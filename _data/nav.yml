@@ -3,6 +3,9 @@
 
 - name: "CV"
   link: "/docs/cv/Xiaojun_Chang_CV.pdf"
+  
+- name: "MY TEAM"
+  link: "/my-team"
 
 - name: "EXPERIENCE"
   link: "/experience"
