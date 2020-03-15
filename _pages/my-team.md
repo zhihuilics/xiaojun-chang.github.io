@@ -15,4 +15,8 @@ permalink: /my-team
 - Mingjie Li, PhD Student, from Shanghai Jiaotong University, November 2019
 - Fengda Zhu, PhD Student, from Beihang University, Janauary 2020
 
+## Current Visiting Students
+- Di Yuan, PhD Student, from Harbin Institute of Technology, October 2019 -
+- Fenglei Xu, PhD Student, from Nanjing University of Science and Technology, November 2019 -
+
 </div>
