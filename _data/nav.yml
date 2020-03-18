@@ -4,13 +4,13 @@
 - name: "CV"
   link: "/docs/cv/Xiaojun_Chang_CV.pdf"
   
-- name: "MY TEAM"
+- name: "TEAM"
   link: "/my-team"
 
 - name: "EXPERIENCE"
   link: "/experience"
 
-- name: "SELECTED PUBLICATIONS"
+- name: "PUBLICATIONS"
   link: "/publications"
 
 - name: "HOME"
