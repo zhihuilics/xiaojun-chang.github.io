@@ -14,6 +14,9 @@ permalink: /my-team
 - Changlin Li, PhD Student, from University of Science and Technology of China, May 2019
 - Mingjie Li, PhD Student, from Shanghai Jiaotong University, November 2019
 - Fengda Zhu, PhD Student, from Beihang University, Janauary 2020
+- Mingfei Han, PhD Student, from University of Chinese Academy of Sciences, July 2020
+- Mengyuan Ma, PhD Student, from Beihang University, July 2020
+- Siyi Hu, PhD Student, from Fudan Univeristy, October 2020
 
 ## Current Visiting Students
 - Di Yuan, PhD Student, from Harbin Institute of Technology, October 2019 -
