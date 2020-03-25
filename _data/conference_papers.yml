@@ -53,10 +53,13 @@
                    <li>propose a Cross-modal Memory Network (CMN) for remembering and understanding the rich information relevant to historical navigation actions</li></ul>
   authors: Yi Zhu, Fengda Zhu, Zhao huan Zhan, Bingqian Lin, Jianbin Jiao, <b>Xiaojun Chang</b>, Xiaodan Liang
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 1
+  number_link: 2
   link1:
-    url: #
+    url: https://arxiv.org/pdf/2003.06745.pdf
     display: paper
+  link2:
+    url: https://github.com/yeezhu/CMN.pytorch
+    display: code
 
 - title: Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization
   image: CVPR2020_OSNAS_framework.png
