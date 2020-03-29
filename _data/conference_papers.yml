@@ -41,7 +41,7 @@
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
   link1:
-    url: https://arxiv.org/pdf/1911.13053.pdf
+    url: https://www.xiaojun.ai/papers/CVPR2020_04676.pdf
     display: paper
   link2:
     url: https://github.com/changlin31/DNA
