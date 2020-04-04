@@ -5,7 +5,7 @@
   venue: <a href="https://acl2020.org/" target="_blank">ACL 2020</a>
   number_link: 1
   link1:
-    url: #
+    url: https://www.xiaojun/papers/ACL2020_NMT.pdf
     display: paper
 
 - title: Vision-language Navigation with Self-Supervised Auxiliary Reasoning Tasks
@@ -161,17 +161,6 @@
   venue: <a href="" target="_blank">ACM MM 2015</a>
   number_link: 1
   link1:
-    url: http://cxj273.github.io/papers/ACMMM15.pdf
+    url: https://www.xiaojun.ai/papers/ACMMM15.pdf
     display: paper
-
-# - title: Conditional Group Normalization: An Empirical Study
-#   image: 2019a_ICMLW_CGN.png
-#   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
-#   authors: Vincent Michalski, Vikram Voleti, Samira Kahou, Anthony Ortiz, Pascal Vincent, Chris Pal, Doina Precup
-#   venue: <a href="https://neurips.cc/Conferences/2018">NeurIPS 2019</a>
-#   number_link: 1
-#   link1:
-#     url: 2019b_NeurIPS_CGN.pdf
-#     display: paper
-
 
