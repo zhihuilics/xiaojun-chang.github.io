@@ -1,3 +1,13 @@
+- title: Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting
+  image: ACL2020_Framework-NMT.jpg
+  description: <ul><li>investigate how to utilize visual content for disambiguation and latent space alignment in unsupervised MMT</li></ul>
+  authors: Po-Yao Huang, Junjie Hu, <b>Xiaojun Chang</b> and Alexander Hauptmann
+  venue: <a href="https://acl2020.org/" target="_blank">ACL 2020</a>
+  number_link: 1
+  link1:
+    url: #
+    display: paper
+
 - title: Vision-language Navigation with Self-Supervised Auxiliary Reasoning Tasks
   image: CVPR2020_VLN_framework.png
   description: <ul><li>Introducing Auxiliary Reasoning Navigation (AuxRN), a framework with four self-supervised auxiliary reasoning tasks to take advantage of the additional training signals derived from the semantic information</li></ul>
