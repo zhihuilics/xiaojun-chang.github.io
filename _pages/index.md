@@ -11,7 +11,7 @@ permalink: /
 
 <img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/profile_picture.jpg" />
 
-Greetings! I am a faculty member at Vision & Lanugage Group, Department of Data Science and AI, Faculty of Information Technology, Monash University Clayton Campus, Australia. I am ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018). <b>I am actively looking for talented and motivated PhD students to work with me. Please drop me an email if you are interested.</b>
+Greetings! I am a faculty member at Vision & Lanugage Group, Department of Data Science and AI, Faculty of Information Technology, Monash University Clayton Campus, Australia. I am ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018).
 
 Before joining Monash, I was a Postdoc Research Associate in School of Computer Science, Carnegie Mellon University, working with [Prof. Alex Hauptmann](http://www.cs.cmu.edu/~alex/){:target="_blank"}. I have spent most of my time working on exploring multiple signals (visual, acoustic, textual) for automatic content analysis in unconstrained or surveillence videos. Our system has achieved top performance in various international competitions, such as TRECVID MED, TRECVID SIN, and TRECVID AVS.
 
@@ -26,6 +26,11 @@ My general research interest is to develop structured machine learning models fo
 - Learning with Limited Supervision, including few-shot learning, zero-shot learning.
 
 - Visual Navigation, including vision-language navigation, and vision-and-dialog navigation.
+
+## For Prospective Students
+
+I am actively looking for talented and motivated PhD students to work with me. The research topics include multimedia, computer vision and vision-language learning. Monash is ranked: 75th globally in the Times Higher Education World University Rankings 2020. 73rd globally and third in Australia in ShanghaiRanking's Academic Ranking of World Universities 2019. 21st in the World's Most International Universities in 2017 as released by Times Higher Education.
+
 
 ## News
 
