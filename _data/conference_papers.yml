@@ -65,7 +65,7 @@
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
   link1:
-    url: https://arxiv.org/pdf/2003.06745.pdf
+    url: https://www.xiaojun.ai/papers/CVPR2020_VDN.pdf
     display: paper
   link2:
     url: https://github.com/yeezhu/CMN.pytorch
@@ -91,7 +91,7 @@
   venue: <a href="https://www.emnlp-ijcnlp2019.org/" target="_blank">EMNLP 2019</a>
   number_link: 1
   link1:
-    url: https://www.aclweb.org/anthology/D19-1154.pdf
+    url: https://www.xiaojun.ai/papers/EMNLP2019.pdf
     display: paper
 
 - title: Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment
@@ -101,7 +101,7 @@
   venue: <a href="https://2019.acmmm.org/" target="_blank">ACM MM 2019</a>
   number_link: 1
   link1:
-    url: https://dl.acm.org/doi/10.1145/3343031.3350894
+    url: https://www.xiaojun.ai/papers/ACMMM2019.pdf
     display: paper
 
 - title: RCAA Relational Context-Aware Agents for Person Search
@@ -111,7 +111,7 @@
   venue: <a href="https://eccv2018.org/" target="_blank">ECCV 2018</a>
   number_link: 1
   link1:
-    url: http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaojun_Chang_RCAA_Relational_Context-Aware_ECCV_2018_paper.pdf
+    url: https://www.xiaojun.ai/papers/ECCV2018.pdf
     display: paper
 
 - title: Reinforcement Cutting-Agent Learning for Video Object Segmentation
@@ -121,7 +121,7 @@
   venue: <a href="http://cvpr2018.thecvf.com/" target="_blank">CVPR 2018</a>
   number_link: 1
   link1:
-    url: http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf
+    url: https://www.xiaojun.ai/papers/CVPR2018.pdf
     display: paper
 
 - title: Complex Event Detection by Identifying Reliable Shots from Untrimmed Videos
@@ -131,7 +131,7 @@
   venue: <a href="http://iccv2017.thecvf.com/" target="_blank">ICCV 2017</a>
   number_link: 1
   link1:
-    url: http://openaccess.thecvf.com/content_ICCV_2017/papers/Fan_Complex_Event_Detection_ICCV_2017_paper.pdf
+    url: https://www.xiaojun.ai/papers/ICCV2017.pdf
     display: paper
 
 - title: They are Not Equally Reliable - Semantic Event Search Using Differentiated Concept Classifiers
@@ -141,7 +141,7 @@
   venue: <a href="http://cvpr2016.thecvf.com/" target="_blank">CVPR 2016</a>
   number_link: 1
   link1:
-    url: https://cs.uwaterloo.ca/~y328yu/mypapers/cvpr16a.pdf
+    url: https://www.xiaojun.ai/papers/CVPR2016.pdf
     display: paper
 
 - title: Complex Event Detection using Semantic Saliency and Nearly-Isotonic SVM
@@ -151,7 +151,7 @@
   venue: <a href="https://icml.cc/2015/" target="_blank">ICML 2015</a>
   number_link: 1
   link1:
-    url: http://proceedings.mlr.press/v37/changa15.pdf
+    url: https://www.xiaojun.ai/papers/ICML2015.pdf
     display: paper
 
 - title: Searching Persuasively - Joint Event Detection and Evidence Recounting with Limited Supervision
