@@ -5,7 +5,7 @@
   venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI) 39(8) 1617-1632 (2017)
   number_link: 1
   link1:
-    url: https://ieeexplore.ieee.org/document/7565615
+    url: https://www.xiaojun.ai/papers/TPAMI2017.pdf
     display: pdf
 
 - title: Multi-Class Active Learning by Uncertainty Sampling with Diversity Maximization
