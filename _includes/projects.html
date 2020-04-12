@@ -1,0 +1,134 @@
+<div class="publications">
+
+<div class="publication-title">{{ project.title }}</div>
+
+<img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/publications/{{ project.image }}" alt="NOT FOUND" />
+
+<div class="publication-text">
+
+{% if project.description %}
+<p>{{ project.description }}</p>
+{% endif %}
+
+{% if project.authors %}
+<p><em>{{ project.authors }}</em></p>
+{% endif %}
+
+{% if project.venue %}
+<p>{{ project.venue }}</p>
+{% endif %}
+
+{% if project.number_link == 1 %}
+<p>
+{% if project.link1.url contains '://' %}
+<a href="{{ project.link1.url }}" target="_blank">{{ project.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link1.url }}" target="_blank">{{ project.link1.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+{% if project.number_link == 2 %}
+<p>
+{% if project.link1.url contains '://' %}
+<a href="{{ project.link1.url }}" target="_blank">{{ project.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link1.url }}" target="_blank">{{ project.link1.display }}</a>
+{% endif %}
+|
+{% if project.link2.url contains '://' %}
+<a href="{{ project.link2.url }}" target="_blank">{{ project.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link2.url }}" target="_blank">{{ project.link2.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+{% if project.number_link == 3 %}
+<p>
+{% if project.link1.url contains '://' %}
+<a href="{{ project.link1.url }}" target="_blank">{{ project.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link1.url }}" target="_blank">{{ project.link1.display }}</a>
+{% endif %}
+|
+{% if project.link2.url contains '://' %}
+<a href="{{ project.link2.url }}" target="_blank">{{ project.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link2.url }}" target="_blank">{{ project.link2.display }}</a>
+{% endif %}
+|
+{% if project.link3.url contains '://' %}
+<a href="{{ project.link3.url }}" target="_blank">{{ project.link3.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link3.url }}" target="_blank">{{ project.link3.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+{% if project.number_link == 4 %}
+<p>
+{% if project.link1.url contains '://' %}
+<a href="{{ project.link1.url }}" target="_blank">{{ project.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link1.url }}" target="_blank">{{ project.link1.display }}</a>
+{% endif %}
+|
+{% if project.link2.url contains '://' %}
+<a href="{{ project.link2.url }}" target="_blank">{{ project.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link2.url }}" target="_blank">{{ project.link2.display }}</a>
+{% endif %}
+|
+{% if project.link3.url contains '://' %}
+<a href="{{ project.link3.url }}" target="_blank">{{ project.link3.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link3.url }}" target="_blank">{{ project.link3.display }}</a>
+{% endif %}
+|
+{% if project.link4.url contains '://' %}
+<a href="{{ project.link4.url }}" target="_blank">{{ project.link4.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link4.url }}" target="_blank">{{ project.link4.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+{% if project.number_link == 5 %}
+<p>
+{% if project.link1.url contains '://' %}
+<a href="{{ project.link1.url }}" target="_blank">{{ project.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link1.url }}" target="_blank">{{ project.link1.display }}</a>
+{% endif %}
+|
+{% if project.link2.url contains '://' %}
+<a href="{{ project.link2.url }}" target="_blank">{{ project.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link2.url }}" target="_blank">{{ project.link2.display }}</a>
+{% endif %}
+|
+{% if project.link3.url contains '://' %}
+<a href="{{ project.link3.url }}" target="_blank">{{ project.link3.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link3.url }}" target="_blank">{{ project.link3.display }}</a>
+{% endif %}
+|
+{% if project.link4.url contains '://' %}
+<a href="{{ project.link4.url }}" target="_blank">{{ project.link4.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link4.url }}" target="_blank">{{ project.link4.display }}</a>
+{% endif %}
+|
+{% if project.link5.url contains '://' %}
+<a href="{{ project.link5.url }}" target="_blank">{{ project.link5.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ project.link5.url }}" target="_blank">{{ project.link5.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+</div>
+
+</div>
+
