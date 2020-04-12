@@ -7,7 +7,7 @@ permalink: /projects
   
 # Projects
 
-{% for project in site.data.conference_papers %}
+{% for project in site.data.projects %}
 
 {% include projects.html %}
 
