@@ -34,7 +34,7 @@ _October 2012 --- August 2016_
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/monash.jpg">](https://www.monash.edu/){:target="_blank"}
 
-_December 2018 --- present_
+_December 2018 --- June 2020_
 
 ### Lecturer and DECRA Fellow, [Faculty of Information Technology](https://www.monash.edu/it){:target="_blank"}, [Monash University](https://www.monash.edu/){:target="_blank"}
 **Melbourne, VIC, Australia**
