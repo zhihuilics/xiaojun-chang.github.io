@@ -23,6 +23,6 @@ permalink: /my-team
 - Fenglei Xu, PhD Student, from Nanjing University of Science and Technology, November 2019 -
 
 ## Alumni
-- [Wenhe Liu](https://www.andrew.cmu.edu/user/wenhel/){:target="_blank"}, graduated in 2019, first job as a Postdoc Research Fellow at School of Computer Science, Carnegie Mellon University.
+- Wenhe Liu, graduated in 2019, first job as a Postdoc Research Fellow at School of Computer Science, Carnegie Mellon University.
 
 </div>
