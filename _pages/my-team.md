@@ -24,5 +24,6 @@ permalink: /my-team
 
 ## Alumni
 - Wenhe Liu, graduated in 2019, first job as a Postdoc Research Fellow at School of Computer Science, Carnegie Mellon University.
+- Lingling Zhang, graduated in 2020, first job as an Assistant Professor at Xi'an Jiaotong University, sponsored by Postdoctoral Innovation Talent Support Program.
 
 </div>
