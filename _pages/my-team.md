@@ -14,6 +14,7 @@ permalink: /my-team
 - Changlin Li, PhD Student, from University of Science and Technology of China, May 2019 [Google Scholar](http://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en){:target="_blank"}
 - Mingjie Li, PhD Student, from Shanghai Jiaotong University, November 2019
 - Fengda Zhu, PhD Student, from Beihang University, Janauary 2020 [Google Scholar](http://scholar.google.com/citations?user=MUNpAQIAAAAJ&hl=en){:target="_blank"}
+- Weili Guan, PhD Student, from National University of Singapore, May 2020
 - Mingfei Han, PhD Student, from University of Chinese Academy of Sciences, July 2020
 - Mengyuan Ma, PhD Student, from Beihang University, July 2020
 - Siyi Hu, PhD Student, from Fudan Univeristy, October 2020
