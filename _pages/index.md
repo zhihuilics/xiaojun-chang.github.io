@@ -11,15 +11,17 @@ permalink: /
 
 <img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/profile_picture.jpg" />
 
-Greetings! I am a faculty member at Vision & Lanugage Group, Department of Data Science and AI, Faculty of Information Technology, Monash University Clayton Campus, Australia. I am ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018).
+Greetings! Dr Xiaojun Chang is a faculty member at Vision & Lanugage Group, Department of Data Science and AI, Faculty of Information Technology, Monash University Clayton Campus, Australia. Dr Chang is an ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018).
 
-Before joining Monash, I was a Postdoc Research Associate in School of Computer Science, Carnegie Mellon University, working with [Prof. Alex Hauptmann](http://www.cs.cmu.edu/~alex/){:target="_blank"}. I have spent most of my time working on exploring multiple signals (visual, acoustic, textual) for automatic content analysis in unconstrained or surveillence videos. Our system has achieved top performance in various international competitions, such as TRECVID MED, TRECVID SIN, and TRECVID AVS.
+Before joining Monash, he was a Postdoc Research Associate in School of Computer Science, Carnegie Mellon University, working with [Prof. Alex Hauptmann](http://www.cs.cmu.edu/~alex/){:target="_blank"}. He has focused his research on exploring multiple signals (visual, acoustic, textual) for automatic content analysis in unconstrained or surveillence videos. His team has won multiple prizes from international grand challenges which hosted competitive teams from MIT, University of Maryland, Facebook AI Research (FAIR) and Baidu VIS, and aim to advance visual understanding using deep learning. For example, he won the first place in the TrecVID 2019 - Activity Extended Video (ActEV) challenge, which was held by National Institute of Standards and Technology, US.
 
-I received my Ph.D. degree in Centre for Artificial Intelligence & Faculty of Engineering and Information Technology, University of Technology Sydney, under the supervision of [Prof. Yi Yang](http://www.cs.cmu.edu/~yiyang/){:target="_blank"}. During my PhD study, I was sequentially mentored by Prof. [Feiping Nie](http://www.escience.cn/people/fpnie/){:target="_blank"} and [Yaoliang Yu](https://cs.uwaterloo.ca/~y328yu/){:target="_blank"}. My research focus in this period was mainly on developing machine learning algorithms and apply them to multimedia analysis and computer vision.
+Dr Chang also has been working on developing deep learning models to automatically annotate the disease labels from multi-source patient data (eg data from medical record) in Intensive Care Units (ICUs). The successful outcome of this project has greatly benefited health care and management in ICU of Royal Brisbane and Women&#39;s Hospital, considering that the automated diagnosis code annotation can significantly improve the quality and management of health care for both patients and caregivers. The outcome has been published in IEEE Transactions on Knowledge and Data Engineering in December 2016. Recently, he has successfully developed an automatic report generation system for critically ill COVID-19 patients using deep learning techniques with US public COVID-19 CT scan dataset. He collaborated with researchers from Australian Alliance for Artificial Intelligence in Healthcare on this project. The system achieves state-of-the-art performance on report generation and can generate reports very close to doctor handwritten report.
+
+He received the Ph.D. degree in Centre for Artificial Intelligence & Faculty of Engineering and Information Technology, University of Technology Sydney, under the supervision of [Prof. Yi Yang](http://www.cs.cmu.edu/~yiyang/){:target="_blank"}. During my PhD study, he was sequentially mentored by Prof. [Feiping Nie](http://www.escience.cn/people/fpnie/){:target="_blank"} and [Yaoliang Yu](https://cs.uwaterloo.ca/~y328yu/){:target="_blank"}. His research focus in this period was mainly on developing machine learning algorithms and apply them to multimedia analysis and computer vision.
 
 ## Research Interests
 
-My general research interest is to develop structured machine learning models for computer vision and multimedia tasks. I mainly investigate how to explore the information contained in videos and develop the advanced artificial intelligence systems. Recently, I focus on the following topics, include:
+His general research interest is to develop structured machine learning models for computer vision and multimedia tasks. He mainly investigates how to explore the information contained in videos and develop the advanced artificial intelligence systems. Recently, he focuses on the following topics, include:
 
 - Video Analysis, including event detection, object detection, segmentation.
 
@@ -29,7 +31,7 @@ My general research interest is to develop structured machine learning models fo
 
 ## For Prospective Students
 
-I am actively looking for talented and motivated PhD students to work with me. The research topics include multimedia, computer vision and vision-language learning. Monash is ranked: 75th globally in the Times Higher Education World University Rankings 2020. 73rd globally and third in Australia in ShanghaiRanking's Academic Ranking of World Universities 2019. 21st in the World's Most International Universities in 2017 as released by Times Higher Education.
+Dr Chang is actively looking for talented and motivated PhD students. The research topics include multimedia, computer vision and vision-language learning. Monash is ranked: 75th globally in the Times Higher Education World University Rankings 2020. 73rd globally and third in Australia in ShanghaiRanking's Academic Ranking of World Universities 2019. 21st in the World's Most International Universities in 2017 as released by Times Higher Education.
 
 
 ## News
