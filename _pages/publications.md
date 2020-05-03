@@ -27,7 +27,7 @@ permalink: /publications
 
 {% assign numOfJournals = loopindex %}
 
-# THESIS / REPORTS
+# PREPRINTS
 
 {% for publication in site.data.reports %}
 
