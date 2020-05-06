@@ -19,7 +19,7 @@ permalink: /my-team
 - Mengyuan Ma, PhD Student, from Beihang University, July 2020
 - Siyi Hu, PhD Student, from Fudan Univeristy, October 2020
 
-## Current Student as Associate Supervisor
+## Current Students as Associate Supervisor
 - Yuedong Chen, PhD Student, from Sun Yat-sen University, Janauary 2021, Co-supervised with Prof. Jianfei Cai
 
 ## Current Visiting Students
