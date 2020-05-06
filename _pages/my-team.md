@@ -10,7 +10,7 @@ permalink: /my-team
 
 # Supervision
 
-## Current Students
+## Current Students as Main Supervisor
 - Changlin Li, PhD Student, from University of Science and Technology of China, May 2019 [Google Scholar](http://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en){:target="_blank"}
 - Mingjie Li, PhD Student, from Shanghai Jiaotong University, November 2019
 - Fengda Zhu, PhD Student, from Beihang University, Janauary 2020 [Google Scholar](http://scholar.google.com/citations?user=MUNpAQIAAAAJ&hl=en){:target="_blank"}
@@ -18,6 +18,9 @@ permalink: /my-team
 - Mingfei Han, PhD Student, from University of Chinese Academy of Sciences, July 2020
 - Mengyuan Ma, PhD Student, from Beihang University, July 2020
 - Siyi Hu, PhD Student, from Fudan Univeristy, October 2020
+
+## Current Student as Associate Supervisor
+- Yuedong Chen, PhD Student, from Sun Yat-sen University, Janauary 2021, Co-supervised with Prof. Jianfei Cai
 
 ## Current Visiting Students
 - Di Yuan, PhD Student, from Harbin Institute of Technology, October 2019 -
